@@ -172,4 +172,4 @@ if uploaded_file:
 
 # === Footer ===
 st.markdown("---")
-st.markdown("<center>Created by Sayed Esmail | Graduation Project 2025</center>", unsafe_allow_html=True)
+st.markdown("<center>Created by Sayed Esmail | Sales Predictor</center>", unsafe_allow_html=True)
