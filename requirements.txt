@@ -5,4 +5,3 @@ joblib
 matplotlib
 seaborn
 xlsxwriter
-python_version == 3.12
